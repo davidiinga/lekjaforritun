@@ -1,0 +1,1 @@
+leikurinn sníst um að ná öllum peningonum áður en tímin rennur út, ef tíminn rennur út þá tapar þú(það kemur game over, ég reyndi að taka það upp en screen recorderinn virkar ekki hjá mér)

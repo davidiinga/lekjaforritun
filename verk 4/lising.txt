@@ -1,0 +1,7 @@
+leikurinn er um ref sem labbar um borð og lagar vélmenni
+sem eru búin að bilast og eru að reyna að ná þér
+
+
+leikurinn virkaði alminilega þangað til að ég
+bætti við VCcam. eftir það þá bara hætta allit að virka.
+ég reyndi að laga það en það gékk ekki vel.
